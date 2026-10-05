@@ -350,5 +350,5 @@ den hittbar.
 - [ ] **M9 — CD:** merge till main deployar automatiskt via Actions. Tagg: `m9-cd`
 
 Se `kursplan.md` (i kursrepot) för fullständig beskrivning av varje milstolpe.
-This change is part of the M2 review milestone.
+This change is part of the M2 review milestone - branch A.
 The repository uses a protected `main` branch and changes are made through pull requests.
