@@ -4,6 +4,7 @@ A tiny in-memory "notes" API. Deliberately simple: students extend this
 during the course (tests, CI, containers, deployment) without needing to
 understand a complex domain model first.
 """
+
 from __future__ import annotations
 
 from fastapi import FastAPI, HTTPException
